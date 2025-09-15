@@ -3,7 +3,7 @@
 
 ## 🏢 Company Details
 **Company Name:** CodTech Compiler Solutions  
-**Project Mentor:** Mr. Hemant Kumar  
+**Project Mentor:** Mr. Neela santosh kumar
 
 ---
 
